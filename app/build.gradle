@@ -50,7 +50,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.patron.test'
                 artifactId = 'android-example'
-                version = '1.0'
+                version = '1.1'
             }
         }
     }
